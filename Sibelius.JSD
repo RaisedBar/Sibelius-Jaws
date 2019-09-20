@@ -1,0 +1,18 @@
+:script PreviousStaff
+:SearchRank 1
+
+:script NextStaff
+:SearchRank 1
+
+:script OctaveUp
+:SearchRank 1
+
+:script OctaveDown
+:SearchRank 1
+
+:script SwapNextNote
+:SearchRank 1
+
+:script SwapPriorNote
+:SearchRank 1
+

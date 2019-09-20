@@ -1,0 +1,7 @@
+[Common Keys]
+Alt+Control+UpArrow=PreviousStaff
+Alt+Control+DownArrow=NextStaff
+Control+UpArrow=OctaveUp
+Control+DownArrow=OctaveDown
+Alt+Control+LeftArrow=SwapPreviousNoteOrRest
+Alt+Control+RightArrow=SwapNextNoteOrRest
